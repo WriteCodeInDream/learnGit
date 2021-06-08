@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 niahoa 
 xiaoshuage
 master
+=======
+i 这个是test分支的文件修改
+第二行
+随便写点
+>>>>>>> test_branch
